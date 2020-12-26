@@ -1,0 +1,14 @@
+.table {
+  display: flex;
+  flex-direction: column;
+}
+
+.searchBox {
+  margin-bottom: 50px;
+}
+
+.button {
+  width: 100px;
+  align-self: flex-end;
+  justify-self: flex-end;
+}
