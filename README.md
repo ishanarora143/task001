@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with the Task
+
+This is a basic task that containes two screens
+
+Link to [screenone](https://task0001.herokuapp.com/screenone)
+Link to [screentwo](https://task0001.herokuapp.com/screenone)
+
+You can select students from screen one and then get a list of tables of selected students in screen two and you can also search student names and apply filter on the table
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
